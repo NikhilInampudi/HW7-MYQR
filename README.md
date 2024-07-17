@@ -1,7 +1,7 @@
 # HW7-MYQR
 
 ## QR Code for Github Homepage
-![LBYL](/qr_codes/QRCode_20240717003714.png "QR code for https://github.com/NikhilInampudi")
+![QRCODE](https://github.com/NikhilInampudi/HW7-MYQR/blob/42c9e169e08190a7c9234c8e3af2619b9ec0a0aa/qr_codes/QRCode_20240717003714.png "QR code for https://github.com/NikhilInampudi")
 
 ## Docker QR Logs
 
